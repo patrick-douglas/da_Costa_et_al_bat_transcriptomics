@@ -1,0 +1,11 @@
+metric	value
+libraries	12
+nm_tag_coverage_percent_minimum	100.0000
+nm_tag_coverage_percent_maximum	100.0000
+substitution_mismatch_percent_mean	3.1612
+substitution_mismatch_percent_median	3.5401
+substitution_mismatch_percent_minimum	1.4248
+substitution_mismatch_percent_maximum	4.1503
+pooled_base_weighted_substitution_mismatch_percent	2.2090
+calculation	NM minus CIGAR insertion and deletion lengths
+scope	Primary Magic-BLAST alignments against Myotis lucifugus Myoluc2.0

@@ -1,0 +1,3 @@
+tissue	libraries	primary_mapped_alignments	featurecounts_assigned_alignments	pooled_assignment_percent	mean_assignment_percent	median_assignment_percent	minimum_assignment_percent	maximum_assignment_percent
+Liver	6	36238763	20915378	57.7155	67.4387	69.1752	47.1284	77.2495
+Telencephalon	6	23180827	12106301	52.2255	58.6307	61.0023	43.2783	74.2502

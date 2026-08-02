@@ -1,0 +1,7 @@
+tissue	metric	libraries	mean	median	minimum	maximum
+Liver	host_partition_percent	6	86.8683	87.8513	75.6010	95.4295
+Liver	mapping_percent_of_host_reads	6	31.1916	22.7894	16.1076	64.9212
+Liver	mapping_percent_of_postfastp_reads	6	27.7432	18.4078	14.6241	61.9540
+Telencephalon	host_partition_percent	6	80.2927	78.6945	69.9258	94.6539
+Telencephalon	mapping_percent_of_host_reads	6	30.3408	28.4463	22.8417	37.8907
+Telencephalon	mapping_percent_of_postfastp_reads	6	24.5971	22.1730	16.7397	35.8650

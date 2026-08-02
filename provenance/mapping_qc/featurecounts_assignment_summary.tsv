@@ -1,0 +1,9 @@
+metric	value
+libraries	12
+primary_mapped_alignments	59419590
+featurecounts_assigned_alignments	33021679
+pooled_assignment_percent_of_primary_mapped_alignments	55.5737
+assignment_percent_mean	63.0347
+assignment_percent_median	67.8850
+assignment_percent_minimum	43.2783
+assignment_percent_maximum	77.2495

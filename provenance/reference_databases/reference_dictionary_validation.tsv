@@ -1,0 +1,9 @@
+metric	value
+bam_used	MOR01_LIVER_RAW.sorted.bam
+fasta_used	Myotis_lucifugus.Myoluc2.0.dna.toplevel.fa.gz
+bam_reference_sequences	11654
+fasta_reference_sequences	11654
+sequence_ids_only_in_bam	0
+sequence_ids_only_in_fasta	0
+sequence_length_mismatches	0
+dictionary_exact_match	PASS

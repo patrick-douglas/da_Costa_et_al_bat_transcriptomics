@@ -1,0 +1,7 @@
+metric	value
+annotated_genes_in_gtf	25849
+genes_in_featurecounts_matrix	25849
+genes_detected_in_at_least_one_library	17291
+detected_gene_percent_of_annotated_genes	66.8923
+gtf_file	Myotis_lucifugus.Myoluc2.0.115.gtf.gz
+featurecounts_matrix	host_counts.txt
